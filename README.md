@@ -1,4 +1,5 @@
-# lazy-load-routes-vue
+# Vue.js: How to lazy load routes
+> With Webpack dynamic comments
 
 ## Project setup
 ```
