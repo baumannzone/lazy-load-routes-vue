@@ -55,11 +55,10 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
 ---
 
-> Twitter [@baumannzone](https://twitter.com/baumannzone) &nbsp;&middot;&nbsp;
-> Instagram [@baumannzone](https://instagram.com/baumannzone) &nbsp;&middot;&nbsp;
-> Twitch [@baumannzone](https://twitch.tv/baumannzone) &nbsp;&middot;&nbsp;
-> GitHub [@baumannzone](https://github.com/baumannzone) &nbsp;&middot;&nbsp;
-> YouTube [RambitoJS](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA)
+>  [Twitter](https://twitter.com/baumannzone) &nbsp;&middot;&nbsp;
+>  [Instagram](https://instagram.com/baumannzone) &nbsp;&middot;&nbsp;
+>  [Twitch](https://twitch.tv/baumannzone) &nbsp;&middot;&nbsp;
+>  [YouTube](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA) &nbsp;&middot;&nbsp;
+>  [GitHub](https://github.com/baumannzone)
