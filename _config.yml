@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-title: "Vue.js: How to lazy load routes"
+title: "Lazy load routes on Vue"
+description: "with Webpack dynamic comments 🔮"

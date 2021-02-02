@@ -1,5 +1,5 @@
-# Vue.js: How to lazy load routes 
-> With Webpack magic comments 🔮
+# Lazy load routes on Vue
+> with Webpack dynamic comments 🔮
 
 ![main-terminal-image: lazy loading routes](./assets/main.png)
 
