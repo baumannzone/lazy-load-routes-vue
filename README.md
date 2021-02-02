@@ -61,4 +61,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 > Twitter [@baumannzone](https://twitter.com/baumannzone) &nbsp;&middot;&nbsp;
 > Instagram [@baumannzone](https://instagram.com/baumannzone) &nbsp;&middot;&nbsp;
 > Twitch [@baumannzone](https://twitch.tv/baumannzone) &nbsp;&middot;&nbsp;
+> GitHub [@baumannzone](https://github.com/baumannzone) &nbsp;&middot;&nbsp;
 > YouTube [RambitoJS](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA)
