@@ -3,6 +3,11 @@
 
 ![main-terminal-image: lazy loading routes](./assets/main.png)
 
+>  [Twitter](https://x.com/baumannzone) &nbsp;&middot;&nbsp;
+>  [Instagram](https://instagram.com/baumannzone) &nbsp;&middot;&nbsp;
+>  [Twitch](https://twitch.tv/baumannzone) &nbsp;&middot;&nbsp;
+>  [Threads](https://threads.net/baumannzone)
+
 ---
 
 ## Branches
@@ -54,11 +59,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
----
-
->  [Twitter](https://twitter.com/baumannzone) &nbsp;&middot;&nbsp;
->  [Instagram](https://instagram.com/baumannzone) &nbsp;&middot;&nbsp;
->  [Twitch](https://twitch.tv/baumannzone) &nbsp;&middot;&nbsp;
->  [YouTube](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA) &nbsp;&middot;&nbsp;
->  [GitHub](https://github.com/baumannzone)
