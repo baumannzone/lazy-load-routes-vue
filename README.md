@@ -1,3 +1,7 @@
+## Follow me
+- https://www.instagram.com/baumannzone/
+- https://www.threads.net/@baumannzone
+
 # Lazy load routes on Vue
 > with Webpack dynamic comments 🔮
 
